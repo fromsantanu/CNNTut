@@ -62,7 +62,3 @@
 25. [References and Further Learning](#chapter-25-references-and-further-learning)
 
 ---
-
-
-* generate **Chapter 1 (with explanation + code)**
-* or create a **folder structure for GitHub (with file names for each chapter)**
