@@ -5,60 +5,60 @@
 
 ### 🔹 Part 1: Foundations
 
-1. [Introduction to Images in Machine Learning](#chapter-1-introduction-to-images-in-machine-learning)
-2. [Why Traditional Neural Networks Fail for Images](#chapter-2-why-traditional-neural-networks-fail-for-images)
-3. [What is a Convolutional Neural Network (CNN)?](#chapter-3-what-is-a-convolutional-neural-network-cnn)
+1. [Introduction to Images in Machine Learning](https://github.com/fromsantanu/CNNTut/blob/main/Part1/p01.md)
+2. [Why Traditional Neural Networks Fail for Images](https://github.com/fromsantanu/CNNTut/blob/main/Part1/p02.md)
+3. [What is a Convolutional Neural Network (CNN)?](https://github.com/fromsantanu/CNNTut/blob/main/Part1/p03.md)
 
 ---
 
 ### 🔹 Part 2: Core Building Blocks
 
-4. [Understanding Convolution Operation](#chapter-4-understanding-convolution-operation)
-5. [Activation Functions (ReLU)](#chapter-5-activation-functions-relu)
-6. [Pooling Layer](#chapter-6-pooling-layer)
-7. [Flattening and Fully Connected Layers](#chapter-7-flattening-and-fully-connected-layers)
+4. [Understanding Convolution Operation](https://github.com/fromsantanu/CNNTut/blob/main/Part2/p01.md)
+5. [Activation Functions (ReLU)](https://github.com/fromsantanu/CNNTut/blob/main/Part2/p02.md)
+6. [Pooling Layer](https://github.com/fromsantanu/CNNTut/blob/main/Part2/p03.md)
+7. [Flattening and Fully Connected Layers](https://github.com/fromsantanu/CNNTut/blob/main/Part2/p04.md)
 
 ---
 
 ### 🔹 Part 3: First CNN Model (Hands-on)
 
-8. [Dataset Introduction (MNIST)](#chapter-8-dataset-introduction-mnist)
-9. [Building a CNN Model in PyTorch](#chapter-9-building-a-cnn-model-in-pytorch)
-10. [Training the Model](#chapter-10-training-the-model)
-11. [Model Evaluation](#chapter-11-model-evaluation)
+8. [Dataset Introduction (MNIST)](https://github.com/fromsantanu/CNNTut/blob/main/Part3/p01.md)
+9. [Building a CNN Model in PyTorch](https://github.com/fromsantanu/CNNTut/blob/main/Part3/p02.md)
+10. [Training the Model](https://github.com/fromsantanu/CNNTut/blob/main/Part3/p03.md)
+11. [Model Evaluation](https://github.com/fromsantanu/CNNTut/blob/main/Part3/p04.md)
 
 ---
 
 ### 🔹 Part 4: Improving the Model
 
-12. [Overfitting and Underfitting](#chapter-12-overfitting-and-underfitting)
-13. [Improvement Techniques (Dropout, Augmentation)](#chapter-13-improvement-techniques-dropout-augmentation)
-14. [Hyperparameter Tuning](#chapter-14-hyperparameter-tuning)
+12. [Overfitting and Underfitting](https://github.com/fromsantanu/CNNTut/blob/main/Part4/p01.md)
+13. [Improvement Techniques (Dropout, Augmentation)](https://github.com/fromsantanu/CNNTut/blob/main/Part4/p02.md)
+14. [Hyperparameter Tuning](https://github.com/fromsantanu/CNNTut/blob/main/Part4/p03.md)
 
 ---
 
 ### 🔹 Part 5: Intermediate Concepts
 
-15. [Deep CNN Architectures](#chapter-15-deep-cnn-architectures)
-16. [Understanding Feature Maps](#chapter-16-understanding-feature-maps)
-17. [Transfer Learning](#chapter-17-transfer-learning)
+15. [Deep CNN Architectures](https://github.com/fromsantanu/CNNTut/blob/main/Part5/p01.md)
+16. [Understanding Feature Maps](https://github.com/fromsantanu/CNNTut/blob/main/Part5/p02.md)
+17. [Transfer Learning](https://github.com/fromsantanu/CNNTut/blob/main/Part5/p03.md)
 
 ---
 
 ### 🔹 Part 6: Real-World Project (Medical Imaging)
 
-18. [Introduction to Medical Images (X-rays)](#chapter-18-introduction-to-medical-images-x-rays)
-19. [CNN for X-ray Classification](#chapter-19-cnn-for-x-ray-classification)
-20. [Improving Medical Models](#chapter-20-improving-medical-models)
-21. [Ethical Considerations in AI Healthcare](#chapter-21-ethical-considerations-in-ai-healthcare)
+18. [Introduction to Medical Images (X-rays)](https://github.com/fromsantanu/CNNTut/blob/main/Part6/p01.md)
+19. [CNN for X-ray Classification](https://github.com/fromsantanu/CNNTut/blob/main/Part6/p02.md)
+20. [Improving Medical Models](https://github.com/fromsantanu/CNNTut/blob/main/Part6/p03.md)
+21. [Ethical Considerations in AI Healthcare](https://github.com/fromsantanu/CNNTut/blob/main/Part6/p04.md)
 
 ---
 
 ### 🔹 Part 7: Final Wrap-Up
 
-22. [Final Results and Discussion](#chapter-22-final-results-and-discussion)
-23. [Student Exercises](#chapter-23-student-exercises)
-24. [Mini Projects](#chapter-24-mini-projects)
-25. [References and Further Learning](#chapter-25-references-and-further-learning)
+22. [Final Results and Discussion](https://github.com/fromsantanu/CNNTut/blob/main/Part7/p01.md)
+23. [Student Exercises](https://github.com/fromsantanu/CNNTut/blob/main/Part7/p02.md)
+24. [Mini Projects](https://github.com/fromsantanu/CNNTut/blob/main/Part7/p03.md)
+25. [References and Further Learning](https://github.com/fromsantanu/CNNTut/blob/main/Part7/p04.md)
 
 ---
